@@ -4,14 +4,16 @@ Cách chạy chương trình:
 
 2/ Mở folder lên bằng vscode
 
-3/ Mở terminal lên
+3/ Mở 3 terminal lên
 
-4/ Copy toàn bộ lệnh này: 
-
+4/ Copy dòng này và dán vào terminal 1 (làm server)
 chcp 65001
 
-ghc Main.hs ChessLogic.hs -o chess
+./main.exe
 
-.\chess.exe
+5/ Copy dòng này và dán vào terminal 2 và 3 (làm client)
+chcp 65001
 
-5/ Dán vào terminal và enter
+./client.exe
+
+6/ Bấm Enter trò chơi sẽ hiện ra
