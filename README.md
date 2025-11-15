@@ -9,7 +9,9 @@ Cách chạy chương trình:
 4/ Copy toàn bộ lệnh này: 
 
 chcp 65001
+
 ghc Main.hs ChessLogic.hs -o chess
+
 .\chess.exe
 
 5/ Dán vào terminal và enter
